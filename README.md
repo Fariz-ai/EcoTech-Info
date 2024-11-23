@@ -1,6 +1,6 @@
 <!-- @format -->
 
-# Penjelasan Setiap Section dalam Halaman
+# PROJECT PEMROGRAMAN WEB DASAR KELOMPOK 3
 
 ## 1. Navbar
 
